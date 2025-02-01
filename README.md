@@ -1,4 +1,4 @@
-# Heart-Disease-Analysis
+# Heart-Disease
 
 This is a data science learning project where we will work with the heart disease dataset (available in this repository) and proceed with the following:  
 -Analyse the data by choosing relevant metrics and plotting them  
